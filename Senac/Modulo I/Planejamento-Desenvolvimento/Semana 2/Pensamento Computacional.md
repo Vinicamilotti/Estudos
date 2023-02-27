@@ -44,7 +44,37 @@ Através dos padrões percebidos identificar questões essenciais e secundárias
 
 ### Exemplo: Abstração
 
+_Questões Primárias_
+
 1. Pegar esponja, pratos, escova, pasta -TORNA-SE-> Pegar materiais de limpeza e a serem limpados
 2. Abrir a torneira
 3. Esfregar ou escovar o que deve ser limpo -TORNA-SE-> Executar a limpeza adequada
 4. Enxaguar
+
+_Questões secundárias_
+
+1. Guardar/Enxugar
+
+## Algoritimo
+
+> Se você quiser que seu computador faça alguma coisa, você terá que escrever um software que diga ao computador, passo a passo, exatamente o que quer que ele faça e quando ele deve fazer. Para se chegar a esse passo a passo, é necessário planejá-lo de modo completo, para que a saída seja exatamente o que você quer.
+
+Por fim o algoritimo é a construção computacional da solução para o problema em questão
+
+### Exemplo: Algoritimo
+
+- Instruções
+
+  - Usuário cadastra seu nome
+  - Usuário cadastra seu e-mail
+  - Usuário cadastra seus hobbies
+  - Usuário decide se quer colocar sua foto
+  - Perfil cadastrado?
+    - Sim:
+      - Usuário pode convidar amigos
+      - Usuário pode pesquisar pessoas com hobbies em comum
+      - Usuário pode criar fóruns/grupos
+      - Usuário pode entrar em fóruns/grupos
+    - Não:
+      - Verifica se o e-mail digitado é válido ou já não está cadastrado
+      - Retorna para tela de cadastro
